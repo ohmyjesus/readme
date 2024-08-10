@@ -1,4 +1,6 @@
-## PhD of Control Engineering
+## Mechanical Automation, Dalian Maritime University
+## Control Engineering, Sichuan University
+## Control Engineering, Northwestern Polytechnical University
 
 ### Platform
 ![Static Badge](https://img.shields.io/badge/Windows-11-0080ff?logo=windows11)
