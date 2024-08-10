@@ -1,6 +1,6 @@
-## Mechanical Automation, Dalian Maritime University
-## Control Engineering, Sichuan University
-## Control Engineering, Northwestern Polytechnical University
+## Mechanical Automation, Bachelor's degree, Dalian Maritime University
+## Master of Control Engineering, Sichuan University
+## Control Engineering, PhD, Northwestern Polytechnical University
 
 ### Platform
 ![Static Badge](https://img.shields.io/badge/Windows-11-0080ff?logo=windows11)
@@ -22,6 +22,10 @@
 ![Static Badge](https://img.shields.io/badge/Nintendo%20Switch-11?logo=nintendoswitch&labelColor=000000&color=000000)
 ![Static Badge](https://img.shields.io/badge/Steam-11?logo=steam&color=000000)
 ![Static Badge](https://img.shields.io/badge/LOL-12?logo=leagueoflegends&color=000000)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ohmyjesus)](https://github.com/ohmyjesus/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ohmyjesus)](https://git.io/streak-stats)
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohmyjesus&show_icons=true&icon_color=CE1D2D&text_color=718096&hide_title=true&bg_color=ffffff&theme=default" />
 
