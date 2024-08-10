@@ -1,5 +1,3 @@
-## Mechanical Automation, Bachelor's degree, Dalian Maritime University
-## Master of Control Engineering, Sichuan University
 ## Control Engineering, PhD, Northwestern Polytechnical University
 
 ### Platform
@@ -23,7 +21,7 @@
 ![Static Badge](https://img.shields.io/badge/Steam-11?logo=steam&color=000000)
 ![Static Badge](https://img.shields.io/badge/LOL-12?logo=leagueoflegends&color=000000)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ohmyjesus)](https://github.com/ohmyjesus/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=ohmyjesus)](https://github.com/ohmyjesus/github-profile-trophy) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ohmyjesus)](https://git.io/streak-stats)
  
