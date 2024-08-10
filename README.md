@@ -1,5 +1,4 @@
-## Master of Control Engineering, SiChuan university
-## PhD of Control Engineering, 
+## PhD of Control Engineering
 
 ### Platform
 ![Static Badge](https://img.shields.io/badge/Windows-11-0080ff?logo=windows11)
